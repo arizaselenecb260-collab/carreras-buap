@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Carreras BUAP">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16406B"/><stop offset="1" stop-color="#0B2340"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#f)"/>
+  <path d="M96 370 A170 170 0 0 1 256 200" fill="none" stroke="#00A896" stroke-width="30" stroke-linecap="round"/>
+  <path d="M416 370 A170 170 0 0 0 256 200" fill="none" stroke="#F26B21" stroke-width="30" stroke-linecap="round"/>
+  <path d="M256 110 L420 180 L256 250 L92 180 Z" fill="#F5B731"/>
+  <path d="M168 214 V280 Q256 330 344 280 V214 L256 252 Z" fill="#F5B731" opacity=".85"/>
+  <path d="M400 188 V262" stroke="#F5B731" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="400" cy="270" r="16" fill="#F5B731"/>
+  <text x="256" y="430" text-anchor="middle" font-family="DejaVu Sans, Arial" font-weight="700" font-size="64" fill="#fff" letter-spacing="4">BUAP</text>
+</svg>

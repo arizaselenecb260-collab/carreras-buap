@@ -1,0 +1,27 @@
+{
+  "name": "Carreras BUAP · Fisioterapia y Marketing Digital",
+  "short_name": "Carreras BUAP",
+  "description": "Explora Fisioterapia y Mercadotecnia y Medios Digitales de la BUAP, haz el test vocacional de 60 preguntas y solicita tu ficha.",
+  "lang": "es-MX",
+  "start_url": "index.php?origen=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F6FA",
+  "theme_color": "#0B2340",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Test vocacional", "url": "test.php", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Fisioterapia", "url": "carrera.php?c=fisioterapia", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Marketing Digital", "url": "carrera.php?c=marketing", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Solicitar ficha", "url": "registro.php#ficha", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "screenshots": [
+    { "src": "assets/img/fisio/fisio1.jpg", "sizes": "1400x798", "type": "image/jpeg", "form_factor": "wide", "label": "Carrera de Fisioterapia" }
+  ]
+}

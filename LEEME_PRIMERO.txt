@@ -1,0 +1,9 @@
+PROYECTO FINAL · CONSTRUYE APLICACIONES WEB · CBTIS 260 · GRUPO "B"
+PWA unificada: Fisioterapia + Mercadotecnia y Medios Digitales + Test vocacional (60 preguntas)
+
+1_Documentos_Word/   -> tus documentos originales y logotipos
+3_Documentacion/     -> guía para Clever Cloud, plantilla del reporte técnico, logotipos y presentación
+carreras-buap/       -> CÓDIGO FUENTE (HTML, CSS, JS, PHP) + database/carreras_buap.sql
+
+Empieza por: 3_Documentacion/GUIA_CLEVER_CLOUD.md
+Cuentas de prueba: aspirante@buap.mx / fisio2026   ·   admin@buap.mx / admin2026
